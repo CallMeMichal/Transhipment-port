@@ -6,5 +6,6 @@ Functionality :
 - checking ship overload
 - logic applied that will remove a container when it is too long in stock
 - each ship can be loaded with a different number of toxic and explosive containers
+- interface
 - read from file
 - save to file
