@@ -1,0 +1,5 @@
+Kontener Chlodniczy |2|1|0|1|0|plomba|AA|500|2000|2500|Sat Apr 23 22:09:16 CEST 2022|null|czarny|-30|AA|-1; 
+Kontener Ciekly:: 13|0|1|0|4|elektryczne|CAA|czerwona|600|2600|3200|Sat Apr 23 22:09:24 CEST 2022|null|1|4; 
+Kontener Wybuchowe: 26|1|0|1|0|L|brak|ACC|czarny|400|1400|1800|Sat Apr 23 22:14:47 CEST 2022|Thu Jun 30 22:09:04 CEST 2022|5|-1; 
+Kontener Wybuchowe: 27|1|0|1|0|WW|brak|ACC|czarny|400|1400|1800|Sat Apr 23 22:15:00 CEST 2022|Fri Jul 01 22:09:04 CEST 2022|6|-1; 
+Kontener Toksyczny Sypki: 24|2|0|1|0|WE|klodka|AAC|brazowy|500|800|1300|Sat Apr 23 22:15:15 CEST 2022|Sun Jul 03 22:09:04 CEST 2022|2|-1; 
