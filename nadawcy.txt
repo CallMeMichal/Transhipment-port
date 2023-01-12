@@ -1,5 +1,0 @@
-Nadawca: Jerzy|Koszykowa 46|Wolej|99020211113|1999-02-02|1; 
-Nadawca: Marek|Lilowa 22|Polej|88110346567|1988-11-03|2; 
-Nadawca: Tomek|Gazowa 10|Wylej|58030484888|1958-03-04|3; 
-Nadawca: Arek|Jasminowa 1|Rozlej|89050678092|1989-05-06|4; 
-Nadawca: marek|Gdansk|worek|99012000331|1999-01-20|5; 
